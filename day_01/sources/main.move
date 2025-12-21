@@ -17,6 +17,9 @@ module challenge::day_01 {
     // const MY_ADDRESS: address = @0x1;
     //
     // Remember: Constants must be named in UPPERCASE!
+    const MASA: u64 = 35;
+    const Q: bool = false;
+    const YOUR_ADDRESS: address = @0x1;
 
 }
 
